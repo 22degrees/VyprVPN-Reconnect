@@ -4,7 +4,7 @@ This script re-connects your router to the fastest serverconnection of one of yo
 
 1. copy the script
 2. edit the login configuration
-3. dit the list of favorite server
+3. edit the list of favorite server
 4. go to the webgui of your Router with Tomato Firmware 
 4. copy the changed script to administration > Scripts > WAN up
 5. save the script
