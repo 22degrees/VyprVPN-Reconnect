@@ -15,7 +15,7 @@ protocol="OpenVPN-256"
 
 # Set the location and hostname
 # see https://support.goldenfrog.com/hc/en-us/articles/204088603-VyprVPN-OpenVPN-Setup-for-Tomato
-# For countries with several server, add the city to the hostname e.g. "US - Washington" 
+# For countries with several server, add the city to the location e.g. "US - Washington" 
 # You can extend or shorten the list, than change the quantity
 location1="Switzerland"
 hostname1="ch1.vyprvpn.com"
